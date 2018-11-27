@@ -1,2 +1,2 @@
-# fryta.pl
+# smaczne.pl
 Strona do zamawania jedzenia
