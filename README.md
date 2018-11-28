@@ -1,4 +1,4 @@
 # smaczne.pl 
-Strona internetowa do zamawania jedzenia
+Strona internetowa do zamawania jedzeniaa
 
 
