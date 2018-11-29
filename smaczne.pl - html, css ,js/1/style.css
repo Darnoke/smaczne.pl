@@ -36,6 +36,7 @@ h1{
     background-color: rgb(175, 117, 0);
     width: 75px;
     height: 75px;
+    border: none;
     position: relative;
     top: -50%;
     right: -11%;
