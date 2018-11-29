@@ -11,3 +11,13 @@ header
     background-color: #ffb00d;
     text-align: center;
 }
+
+main
+{
+    width: 100%;
+}
+
+label
+{
+    font-family: 'Roboto', sans-serif;
+}
