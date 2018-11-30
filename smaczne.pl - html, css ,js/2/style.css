@@ -2,6 +2,7 @@ body
 {
     background-color: #fcf2cb;
     margin: 0;
+    font-family: 'Roboto', sans-serif;
 }
 
 header
@@ -11,3 +12,45 @@ header
     background-color: #ffb00d;
     text-align: center;
 }
+
+main
+{
+    text-align: center;
+    width: 100%;
+    min-height: 200px;
+}
+
+input
+{
+    font-size: 20px;
+    height: 30px;
+}
+
+#butt
+{
+    height: 35px;
+    width: 170px;
+    background-color: #FFB00D;
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+
+t
+{
+    font-size: 13px;
+}
+
+a
+{
+    color: #1E4363;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: blue;
+}
+
