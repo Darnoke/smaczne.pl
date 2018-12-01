@@ -31,7 +31,7 @@ h1{
 #bgphoto{
     position: center;
 }
-
+/*
 #button0{
     background-color: rgb(175, 117, 0);
     width: 75px;
@@ -41,7 +41,7 @@ h1{
     top: -50%;
     right: -11%;
 }
-
+*/
 main{
     height: 538px;
     width: 100%-50px;
