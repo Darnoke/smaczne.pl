@@ -2,6 +2,8 @@ var modal = document.getElementById('myModal');
 
 var btn = document.getElementById("jsButt");
 
+var btn2 = document.getElementById("mainButt");
+
 var span = document.getElementsByClassName("close")[0];
 
 btn.onclick = function() {
