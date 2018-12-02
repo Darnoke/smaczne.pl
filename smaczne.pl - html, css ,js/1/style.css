@@ -168,6 +168,7 @@ a:hover
     float: right;
     font-size: 28px;
     font-weight: bold;
+    transform: translate(-20px, 10px);
 }
 
 .close:hover,
