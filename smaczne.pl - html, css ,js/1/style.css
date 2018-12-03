@@ -162,6 +162,21 @@ a:hover
     padding-top: 3%;
     padding-bottom: 3%;
 }
+
+.top4
+{
+    font-size: 35px;
+    overflow: auto;
+    background-color: #fcf2cb;
+    float: left;
+    width: 100%;
+    border-color: #1E4363;
+    border-bottom-style: solid;
+    border-width: 3px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
 .close
 {
     color: grey;
@@ -173,6 +188,22 @@ a:hover
 
 .close:hover,
 .close:focus
+{
+    color:black;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.close2
+{
+    color: grey;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    transform: translate(-20px, 10px);
+}
+.close2:hover,
+.close2:focus
 {
     color:black;
     text-decoration: none;
