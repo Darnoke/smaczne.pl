@@ -29,7 +29,7 @@
             <at-button @click="makeOrder()" type="primary">Zamów</at-button>
         </div>
         <div class="footer">
-            <small>Copyright &copy; 2018 - Konrad Woźniak</small>
+            <small>Copyright &copy; 2018 - Praktykanci</small>
         </div>
     </div>
 </template>

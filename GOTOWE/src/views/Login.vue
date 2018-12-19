@@ -25,7 +25,7 @@
             <at-button @click="attemptLogin()" type="primary">Zaloguj się</at-button>
         </div>
         <div class="footer">
-            <small>Copyright &copy; 2018 - Konrad Woźniak</small>
+            <small>Copyright &copy; 2018 - Praktykanci</small>
         </div>
     </div>
 </template>
