@@ -1,0 +1,275 @@
+{
+    "users": [
+        {
+            "id": 1, "login": "test", "password": "test"
+        }
+    ],
+    "restaurants": [
+        {
+            "id": 1, "name": "Pizza Cool", "image": "https://ih0.redbubble.net/image.359847667.2081/pp,550x550.u1.jpg", "rate": 4, "description": "Kuchnia włoska", "delivery_time": 30, "delivery_price": 5
+        },
+        {
+            "id": 2, "name": "Master Sushi", "image": "http://www.mastersushi.pl/zestawy/zestaw_1.jpg", "rate": 2, "description": "Sushi", "delivery_time": 30, "delivery_price": 5
+        },
+        {
+            "id": 3, "name": "Kebab Best", "image": "https://d-pt.ppstatic.pl/k/r/1/38/93/5a93f9ec890f9_p.jpg?1519675431", "rate": 4, "description": "Kebab", "delivery_time": 30, "delivery_price": 5
+        },
+        {
+            "id": 4, "name": "Pasta World", "image": "https://www.eatalyarabia.com/wp-content/uploads/2017/10/wpd_slider.jpg", "rate": 3, "description": "Makarony", "delivery_time": 30, "delivery_price": 5
+        },
+        {
+            "id": 5, "name": "Polish Dish", "image": "https://usercontent2.hubstatic.com/14206579_f520.jpg", "rate": 2, "description": "Kuchnia Polska", "delivery_time": 25, "delivery_price": 10
+        },
+		{
+            "id": 6, "name": "Casserole Bistro", "image": "http://kadrklub.pl/wp-content/uploads/2018/06/zapiekanka.jpg", "rate": 5, "description": "Zapiekanki", "delivery_time": 15, "delivery_price": 7
+        },
+		{
+            "id": 7, "name": "Burger World", "image": "https://sallysbakingaddiction.com/wp-content/uploads/2018/07/best-black-bean-burgers-2.jpg", "rate": 3, "description": "Burgery" , "delivery_time": 10, "delivery_price": 10
+        },
+		{
+            "id": 8, "name": "Steak House", "image": "https://cdn.apartmenttherapy.info/image/fetch/f_auto,q_auto,w_600,h_750,c_fit,fl_strip_profile/https://s3.amazonaws.com/pixtruder/original_images/e3ce4eb1741bd76cc083424453c0e3f39d147f9b", "rate": 5, "description": "Steki" , "delivery_time": 30, "delivery_price": 5
+        }
+    ],
+    "menu": [
+        {
+            "id": 1, 
+            "menu": [
+                {
+                    "id": 1,
+                    "name": "Pizza Margerita",
+                    "price": 15
+                },
+                {
+                    "id": 2,
+                    "name": "Pizza Królewska",
+                    "price": 20
+                },
+                {
+                    "id": 3,
+                    "name": "Pizza Hawajska",
+                    "price": 17
+                },
+                {
+                    "id": 4,
+                    "name": "Pizza Farmerska",
+                    "price": 22
+                },
+                {
+                    "id": 5,
+                    "name": "Własna - wybór dowolnych dodatków",
+                    "price": 30
+                }
+            ]
+        },
+        {
+            "id": 2, 
+            "menu": [
+                {
+                    "id": 1,
+                    "name": "Futomaki",
+                    "price": 25
+                },
+                {
+                    "id": 2,
+                    "name": "Nigiri",
+                    "price": 20
+                },
+                {
+                    "id": 3,
+                    "name": "California",
+                    "price": 15
+                },
+                {
+                    "id": 4,
+                    "name": "Temaki",
+                    "price": 20
+                },
+                {
+                    "id": 5,
+                    "name": "Hosomaki",
+                    "price": 25
+                }
+            ]
+        },
+        {
+            "id": 3, 
+            "menu": [
+                {
+                    "id": 1,
+                    "name": "Rollo",
+                    "price": 10
+                },
+                {
+                    "id": 2,
+                    "name": "Mega Rollo",
+                    "price": 15
+                },
+                {
+                    "id": 3,
+                    "name": "Średnie Rollo",
+                    "price": 12
+                },
+                {
+                    "id": 4,
+                    "name": "Małe Rollo",
+                    "price": 7
+                },
+                {
+                    "id": 5,
+                    "name": "Frytki",
+                    "price": 5
+                }
+            ]
+        },
+        {
+            "id": 4, 
+            "menu": [
+                {
+                    "id": 1,
+                    "name": "Carpaccio di filetto di manzo",
+                    "price": 24
+                },
+                {
+                    "id": 2,
+                    "name": "Bruschetta con pomodorini",
+                    "price": 12
+                },
+                {
+                    "id": 3,
+                    "name": "Formaggio di capra alla grilla con mela marinato",
+                    "price": 19
+                },
+                {
+                    "id": 4,
+                    "name": "Foccia con lardo",
+                    "price": 12
+                },
+                {
+                    "id": 5,
+                    "name": "Buratta",
+                    "price": 25
+                }
+            ]
+        },
+        {
+            "id": 5, 
+            "menu": [
+                {
+                    "id": 1,
+                    "name": "Pierogi",
+                    "price": 12
+                },
+                {
+                    "id": 2,
+                    "name": "Bigos",
+                    "price": 15
+                },
+                {
+                    "id": 3,
+                    "name": "Polska Kiełbasa",
+                    "price": 8
+                },
+                {
+                    "id": 4,
+                    "name": "Polskie Ziemniaki",
+                    "price": 6
+                },
+                {
+                    "id": 5,
+                    "name": "Polski Pączek",
+                    "price": 5
+                }
+            ]
+        },
+		{
+            "id": 6, 
+            "menu": [
+                {
+                    "id": 1,
+                    "name": "Zapkiekanka z serem",
+                    "price": 16
+                },
+                {
+                    "id": 2,
+                    "name": "Zapkiekanka z szynką",
+                    "price": 17
+                },
+                {
+                    "id": 3,
+                    "name": "Zapkiekanka z papryką",
+                    "price": 15
+                },
+                {
+                    "id": 4,
+                    "name": "Zapkiekanka wiejska",
+                    "price": 18
+                },
+                {
+                    "id": 5,
+                    "name": "Zapkiekanka Hawajska",
+                    "price": 16
+                }
+            ]
+        },
+		{
+            "id": 7, 
+            "menu": [
+                {
+                    "id": 1,
+                    "name": "Burger Classic",
+                    "price": 18
+                },
+                {
+                    "id": 2,
+                    "name": "Double Burger",
+                    "price": 22
+                },
+                {
+                    "id": 3,
+                    "name": "Burger góralski",
+                    "price": 19
+                },
+                {
+                    "id": 4,
+                    "name": "Burger z kurczakiem",
+                    "price": 17
+                },
+                {
+                    "id": 5,
+                    "name": "Burger z wołowiną",
+                    "price": 19
+                }
+            ]
+        },
+		{
+            "id": 8, 
+            "menu": [
+                {
+                    "id": 1,
+                    "name": "Steak Classic",
+                    "price": 20
+                },
+                {
+                    "id": 2,
+                    "name": "Steak Medium",
+                    "price": 22
+                },
+                {
+                    "id": 3,
+                    "name": "Steak low",
+                    "price": 25
+                },
+                {
+                    "id": 4,
+                    "name": "Steak z przyprawami",
+                    "price": 23
+                },
+                {
+                    "id": 5,
+                    "name": "Steak z serem",
+                    "price": 25
+                }
+            ]
+        }
+    ]
+}
